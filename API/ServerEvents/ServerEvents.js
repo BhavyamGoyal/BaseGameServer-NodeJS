@@ -4,6 +4,7 @@ module.exports = {
     ON_CONNECTED:"onConnected",
     ON_JOIN_GAME:"onJoinGame",
     ON_GAME_STARTED:"onGameStarted",
+    ON_LEAVE_GAME:"onLeaveGame",
 
     SEND_INPUT:"sendInput",
     REGISTER_USER:"registerUser",
